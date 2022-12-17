@@ -1,7 +1,7 @@
 {
   "audioReact": {
     "type": "checkbox",
-    "value": true,
+    "value": false,
     "text": "Audio Visualiser"
   },
   "randomSplats": {
